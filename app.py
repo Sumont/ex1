@@ -41,3 +41,4 @@ else:
 print("BYE")
 print("end")
 patil
+destruct
