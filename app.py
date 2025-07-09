@@ -38,3 +38,4 @@ else:
     print("Invalid input")
 print("BYE")
 print("end")
+destruct
