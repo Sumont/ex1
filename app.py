@@ -1,3 +1,4 @@
+init
 print("start")
 print("Hello")
 def add(x, y):
